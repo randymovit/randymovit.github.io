@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://randymovit.github.io</id>
     <title>MOVIT</title>
-    <updated>2020-11-28T06:23:56.683Z</updated>
+    <updated>2020-11-28T06:26:18.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://randymovit.github.io"/>
     <link rel="self" href="https://randymovit.github.io/atom.xml"/>
@@ -10,13 +10,4 @@
     <logo>https://randymovit.github.io/images/avatar.png</logo>
     <icon>https://randymovit.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MOVIT</rights>
-    <entry>
-        <title type="html"><![CDATA[ops]]></title>
-        <id>https://randymovit.github.io/post/hello-world/</id>
-        <link href="https://randymovit.github.io/post/hello-world/">
-        </link>
-        <updated>2020-11-28T05:35:23.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="it-is-the-first-blog-that-i-build-with-gridea">It is the first blog that I build with gridea.</h2>
-]]></content>
-    </entry>
 </feed>
