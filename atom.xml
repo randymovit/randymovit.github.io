@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movitecc.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-11-28T05:39:06.109Z</updated>
+    <id>https://randymovit.github.io</id>
+    <title>MOVIT</title>
+    <updated>2020-11-28T06:00:58.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://movitecc.github.io"/>
-    <link rel="self" href="https://movitecc.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://movitecc.github.io/images/avatar.png</logo>
-    <icon>https://movitecc.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <link rel="alternate" href="https://randymovit.github.io"/>
+    <link rel="self" href="https://randymovit.github.io/atom.xml"/>
+    <subtitle>LIFE LIFE AND LOVE</subtitle>
+    <logo>https://randymovit.github.io/images/avatar.png</logo>
+    <icon>https://randymovit.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, MOVIT</rights>
     <entry>
         <title type="html"><![CDATA[ops]]></title>
-        <id>https://movitecc.github.io/post/hello-world/</id>
-        <link href="https://movitecc.github.io/post/hello-world/">
+        <id>https://randymovit.github.io/post/hello-world/</id>
+        <link href="https://randymovit.github.io/post/hello-world/">
         </link>
         <updated>2020-11-28T05:35:23.000Z</updated>
         <content type="html"><![CDATA[<h2 id="it-is-the-first-blog-that-i-build-with-gridea">It is the first blog that I build with gridea.</h2>
